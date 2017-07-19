@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ACD5A22C3A430912786C28B5789E11A58F957A1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03" : 9223372036854775807,
+    "ACD5A22C3A430912786C28B5789E11A58F957A1B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE9AED21-8468-4D54-AA2B-14A7A2197D79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03" : "..\/..",
+    "ACD5A22C3A430912786C28B5789E11A58F957A1B" : "PickUp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pick up",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pick up.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kavyanagaraj\/DojoAssignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylebible\/PickUp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACD5A22C3A430912786C28B5789E11A58F957A1B"
+    }
+  ]
+}
